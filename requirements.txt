@@ -21,3 +21,4 @@ pillow
 google-generativeai
 firecrawl-py
 python-dotenv
+langchain_pinecone
